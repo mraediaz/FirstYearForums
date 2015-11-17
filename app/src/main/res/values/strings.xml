@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">FirstYearForums</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="groups">
+        <item> Click for more group info</item>
+        <item> Group 1</item>
+        <item> Group 2</item>
+        <item> Group 3</item>
+        <item> Group 4</item>
+        <item> Group 5</item>
+    </string-array>
+    <string name="title_activity_check_in_main">CheckInMain</string>
+    <string name="title_activity_info1">Info1</string>
+    <string name="title_activity_info2">Info2</string>
+    <string name="title_activity_info3">Info3</string>
+    <string name="title_activity_info4">Info4</string>
+    <string name="title_activity_info5">Info5</string>
+    <string name="title_activity_info6">Info6</string>
+    <string name="title_activity_info7">Info7</string>
+    <string name="title_activity_info8">Info8</string>
+    <string name="title_activity_info9">Info</string>
+    <string name="title_activity_testing">testing</string>
+    <string name="title_activity_check_in_forum">checkInForum</string>
+    <string name="title_activity_qrcode_reader">QRCodeReader</string>
+    <string name="title_activity_check_in_form">CheckInForm</string>
+    <string name="title_activity_group2">Group2</string>
+    <string name="title_activity_group_1">Group_1</string>
+    <string name="title_activity_group3">Group3</string>
+    <string name="title_activity_group4">Group4</string>
+    <string name="title_activity_group5">Group5</string>
+</resources>
